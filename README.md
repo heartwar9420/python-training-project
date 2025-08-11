@@ -13,10 +13,11 @@
 
 ---
 
-##資源連結
-- 📝 **Notion 計畫總覽** → [點我查看]([https://你的notion連結](https://www.notion.so/23bd9f743068809183f8fdbf859f45d1))
-- 📸 **Facebook 專頁 / 貼文** → [點我查看](https://你的fb連結)
-- 📱 **Instagram 專案紀錄** → [點我查看](https://你的ig連結)
+
+## 資源連結
+- 📝 **Notion 計畫總覽** → [點我查看](https://www.notion.so/23bd9f743068809183f8fdbf859f45d1)
+- 📱 **Instagram 專案紀錄** → [點我查看](https://www.instagram.com/junlog1001?igsh=MXE3Y280NWoxM2UxZg%3D%3D&utm_source=qr)
+- 📸 **Facebook 專頁 / 貼文** → [點我查看](https://www.facebook.com/share/15xgqNA2v7/?mibextid=wwXIfr)
 
 ---
 
