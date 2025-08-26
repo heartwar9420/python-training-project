@@ -1,7 +1,7 @@
 #Python Training Project
 
 這是我的職訓計畫專案，主要紀錄我在學習 Python 與相關技能的過程、成果與作品。  
-透過 Notion 進行完整規劃，並同步更新在社群平台，讓更多人可以看到專案進度。
+透過 Notion 進行完整規劃，讓更多人可以看到專案進度。
 
 ---
 
@@ -16,8 +16,6 @@
 
 ## 資源連結
 - 📝 **Notion 計畫總覽** → [點我查看](https://www.notion.so/23bd9f743068809183f8fdbf859f45d1)
-- 📱 **Instagram 專案紀錄** → [點我查看](https://www.instagram.com/junlog1001?igsh=MXE3Y280NWoxM2UxZg%3D%3D&utm_source=qr)
-- 📸 **Facebook 專頁 / 貼文** → [點我查看](https://www.facebook.com/share/15xgqNA2v7/?mibextid=wwXIfr)
 
 ---
 
